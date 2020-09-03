@@ -1,0 +1,32 @@
+
+	.leftDiv
+	{
+		background-color: #efefef;
+		color: #000;
+		height: 400px;
+		width: 60%;
+		float: left;
+	}
+	.rightDiv
+	{
+		background-color: #efefef;
+		color: #000;
+		height: 400px;
+		width: 60%;
+        float: right;
+	}
+	
+	.topright {
+		position: absolute;
+		top: 8px;
+		right: 16px;
+		font-size: 18px;
+	  }
+	 
+	  
+	  #div {
+		height: 200px;
+		width: 100%;
+		background-color: powderblue;
+		}
+		
